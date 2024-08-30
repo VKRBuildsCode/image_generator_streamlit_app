@@ -8,4 +8,3 @@ hide_st_style = """
             </style>
             """
 st.title('Streamlit Toggle')
-toggle()
