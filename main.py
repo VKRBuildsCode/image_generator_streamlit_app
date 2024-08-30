@@ -1,5 +1,4 @@
 import streamlit as st
-from streamlit_toggle import toggle
 hide_st_style = """
             <style>
             #MainMenu {visibility: hidden;}
